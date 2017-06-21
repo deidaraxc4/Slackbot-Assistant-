@@ -129,5 +129,30 @@
   },
   "94d116dd-b351-4108-b4f1-7d3d8216c59f": {
     "foo": "bar"
+  },
+  "U5C2D4CV8": {
+    "name": "deidaraxc4",
+    "rpswin": "0",
+    "rpsloss": "0"
+  },
+  "U5CSHMG87": {
+    "name": "deidaraxc4bot",
+    "rpswin": "0",
+    "rpsloss": "0"
+  },
+  "U5TTJHRU1": {
+    "name": "f",
+    "rpswin": "0",
+    "rpsloss": "0"
+  },
+  "U5Y3C0KRU": {
+    "name": "terryoit",
+    "rpswin": "0",
+    "rpsloss": "0"
+  },
+  "U5UDC3D6F": {
+    "name": "test_bot",
+    "rpswin": "0",
+    "rpsloss": "0"
   }
 }
