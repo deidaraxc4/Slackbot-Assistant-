@@ -4,12 +4,27 @@
     "ping me",
     "you up?"
   ],
-  "Dickpic": [
-    "Dickpic @",
-    "Dick pic @",
-    "Wang shot @",
-    "Sausage display @",
-    "Richard cranium @",
-    "Wang out @"
+  "checkout": [
+    "where do i check out items",
+    "how do i check out a loaner",
+    "where do i check out loaners",
+    "what is the website to check out loaners",
+    "what site to check out loaners"
+  ],
+  "workSchedule": [
+    "who is working today",
+    "what is the work schedule",
+    "who is here today"
+  ],
+  "contacts": [
+    "contact info",
+    "contact info for",
+    "how do i contact",
+    "what is johns email",
+    "what is johns number"
+  ],
+  "lookup": [
+    "lookup",
+    "Lookup"
   ]
 }
