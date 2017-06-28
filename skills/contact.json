@@ -1,0 +1,14 @@
+{
+  "John": {
+    "firstname":"John",
+    "email":"example@domain.com",
+    "officenumber":"123-255-3000",
+    "cellnumber":"555-255-3000"
+  },
+  "Jim": {
+    "firstname":"Jim",
+    "email":"example2@domain.com",
+    "officenumber":"123-255-4000",
+    "cellnumber":"555-255-3000"
+  }
+}
