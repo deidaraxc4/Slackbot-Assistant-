@@ -13,15 +13,6 @@ module.exports = {
     'Google',
     'google'
   ],
-  Backup: [
-    'Backup',
-    'Git push',
-    'Upload yourself'
-  ],
-  GitPull: [
-    'Git pull',
-    'Update yourself'
-  ],
   CatFacts: [
     'meow meow',
     'cat fact me',
@@ -36,9 +27,6 @@ module.exports = {
     'make me laugh',
     'tell me a joke',
     'tell us a joke'
-  ],
-  MemoryTest: [
-    'memtest'
   ],
   SecretHug: [
     'hug @'
