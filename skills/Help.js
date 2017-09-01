@@ -11,13 +11,13 @@ module.exports = function(skill, info, bot, message, db) {
             response = response + '*Command:* ' + key + '\n' + '*Key words/phrases:* ' + builtinPhrases[key] + '\n'
         }
     }
-    bot.reply(message, response);    
-    
-    bot.reply(message,'You can also teach me new skills! Just tell me `!TRAIN` to begin a custom skill training session.' + '\n' + 'These are my current custom-added commands: ' );
+    bot.reply(message, response);
+
+    bot.reply(message,'You can also teach me new skills! Just tell me `!TRAIN` to begin a custom skill training session.' + '\n' + 'These are the current topics I can provide an answer to: ' );
     for (var key2 in customPhrases) {
         if (customPhrases.hasOwnProperty(key2)) {
             response2 = response2 + '*Command:* ' + key2 + '\n' + '*Key words/phrases:* ' + customPhrases[key2] + '\n'
         }
     }
-    bot.reply(message, response2); 
+    bot.reply(message, response2);
 };

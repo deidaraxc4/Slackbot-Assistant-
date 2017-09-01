@@ -13,22 +13,16 @@ module.exports = {
     'Google',
     'google'
   ],
-  CatFacts: [
-    'meow meow',
-    'cat fact me',
-    'cat fact please',
-    ':cat:'
+  Hello: [
+    'Hello',
+    'How are you',
+    'Hey',
+    'Hi',
+    'Whats up',
+    'Morning'
   ],
-  Jokes: [
-    'jaja',
-    'el oh el',
-    'yo mama',
-    'very punny',
-    'make me laugh',
-    'tell me a joke',
-    'tell us a joke'
-  ],
-  SecretHug: [
-    'hug @'
+  TodoList: [
+    'todo',
+    'Todo'
   ]
 }
